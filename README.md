@@ -45,7 +45,6 @@ Para correr esta aplicación en tu propia máquina, sigue estos pasos:
 3.  **Instala las dependencias:**
     ```bash
     pip install -r requirements.txt
-    ```
 
 4.  **Ejecuta la aplicación:**
     ```bash
